@@ -69,7 +69,7 @@ nav{
 }
 
 .resume{
-    background: white;
+    background-image: url(../img/%D0%A4%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BB%D0%BE%D0%B9.png);
     background-attachment: fixed;
     width: 100%;
     height: 520px;
@@ -86,7 +86,8 @@ nav{
 
 .img1{
     margin-top: 23px;
-    margin-left: 658px;
+    margin-left: 650px;
+   
  
 }
 
@@ -119,33 +120,57 @@ nav{
 }
 
 .cyu{
-    background-image: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png);
-    width: 100%;
-    background-repeat: no-repeat;
-}
-
-.cyu h2{
-    padding-top: 70px;
-    color: #263244;
-    font-size: 22px;
-    margin-left: 628px;
-    text-transform: uppercase;
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png);
+    background-position: center;
+   height: 370px;
     
 }
 
-.img1{
-    margin-top: 23px;
-    margin-left: 658px;
+.cyu h2{
+    padding-top: 80px;
+    color: #263244;
+    font-size: 22px;
+    margin-left: 625px;
+    text-transform: uppercase; 
 }
 
 .cyu h4{
-    margin-top: 50px;
-    width: 121px;
+    color: #d2893c;
+}
 
+.blok1{
+    float: left;
+    margin-top: 80px;
+    max-width: 150px;
+    
+}
+
+.blok2{
+    margin-top: 80px;
+    margin-left: 62px;
+     max-width: 150px;
+    float: left;
+}
+
+.blok3{
+    margin-top: 80px;
+    margin-left: 62px;
+     max-width: 150px;
+    float: left;
+}
+
+.blok4{
+    margin-top: 75px;
+    margin-left: 62px;
+     max-width: 150px;
+    float: left;
+}
+
+.img1111{
+    margin-top: 23px;
+    margin-left: 650px;
+    float: left;
 }
 
 
-.img3{
-    margin-top: 82px;
-    padding-left: 352px;
-}
+
